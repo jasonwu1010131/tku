@@ -1,11 +1,8 @@
 # Week 1
 *[自我介紹](http://127.0.0.1:63739/W01/intro.html)
-
 # Week 2
-* table.html
-* myclass.html
-
-
+* [Pokemon](http://127.0.0.1:63739/W02/Pokemon.html)
+* [我的課表](http://127.0.0.1:63739/W02/my%20class.html)
 # Week 3
 * tku60.html
 * bivdemo.html
@@ -21,5 +18,5 @@
 * imagegallery.html
 * pet.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTUzMjk1NF19
+eyJoaXN0b3J5IjpbLTE1NzA2MzU3MjRdfQ==
 -->
