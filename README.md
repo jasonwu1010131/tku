@@ -4,9 +4,8 @@
 * [Pokemon](http://127.0.0.1:63739/W02/Pokemon.html)
 * [我的課表](http://127.0.0.1:63739/W02/my%20class.html)
 # Week 3
-* tku60.html
-* bivdemo.html
-
+* [TKU60周年 淡江大戲](http://127.0.0.1:63739/W03/TKU%2060/TKU%2060.html)
+* [div.html](http://127.0.0.1:63739/W03/div.html)
 
 # Week 4
 * ttt.html, ttt.css
@@ -18,5 +17,5 @@
 * imagegallery.html
 * pet.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA2MzU3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTUyNTc1MjFdfQ==
 -->
