@@ -8,7 +8,7 @@
 * [div.html](http://127.0.0.1:63739/W03/div.html)
 
 # Week 4
-* ttt.html, ttt.css
+* [Tic Tac Toe](http://127.0.0.1:63739/W04/ttt.html)
 * blog.html, blog.css
 * profile.html
 
@@ -17,5 +17,5 @@
 * imagegallery.html
 * pet.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUyNTc1MjFdfQ==
+eyJoaXN0b3J5IjpbMTMyMTE2MjY1XX0=
 -->
