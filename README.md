@@ -9,7 +9,7 @@
 
 # Week 4
 * [Tic Tac Toe](http://127.0.0.1:63739/W04/ttt.html)
-* blog.html, blog.css
+* This Is My First Article
 * profile.html
 
 
@@ -17,5 +17,5 @@
 * imagegallery.html
 * pet.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTE2MjY1XX0=
+eyJoaXN0b3J5IjpbMTM0OTkxMjUxNV19
 -->
